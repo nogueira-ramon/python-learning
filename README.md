@@ -1,9 +1,10 @@
-# Python Learning
+Python Learning
 
-Repositório criado para registrar minha evolução no aprendizado de Python.
+A repository documenting my journey learning Python.
 
-Aqui serão armazenados:
-- exercícios;
-- testes;
-- pequenos scripts;
-- anotações de estudo.
+This is where I'll be storing:
+
+- Exercises and coding challenges
+- Test scripts
+- Small utility scripts
+- Study notes and key takeaways
